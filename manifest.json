@@ -1,6 +1,7 @@
 {
   "short_name": "Firegram",
   "name": "Firegram",
+  "description": "Share your photos",
   "icons": [
     {
       "src": "favicon.png",
